@@ -8,6 +8,6 @@
 </br>
 
 <div align="center">
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sreeram100&count_private=true&include_all_commits=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram100&layout=compact&theme=onedark&langs_count=15" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sreeram100&count_private=true&include_all_commits=true&theme=gruvbox"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram100&layout=compact&theme=gruvbox&langs_count=15" />
 </div>
